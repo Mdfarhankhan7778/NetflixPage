@@ -1,1 +1,2 @@
 # NetflixPage
+A clone of the Netflix homepage using HTML and CSS. The clone closely mimics the layout, design, and features of the official Netflix homepage. It was a great opportunity to enhance my front-end development skills and gain hands-on experience in building a user-friendly interface. The project demonstrates my proficiency in utilizing HTML and CSS to create a visually appealing and functional webpage, resembling the renowned Netflix platform.
